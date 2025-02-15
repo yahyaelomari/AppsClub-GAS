@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppsClub GAS.iml" filepath="$PROJECT_DIR$/AppsClub GAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppsClub SecuTest.iml" filepath="$PROJECT_DIR$/AppsClub SecuTest.iml" />
     </modules>
   </component>
 </project>
